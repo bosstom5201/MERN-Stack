@@ -32,8 +32,8 @@ do
     done
   cd ../
 done
-git push -u origin master
+git push -u origin main
 git rm -rf 20**
 # git rm -rf 19**
 git commit -am "cleanup"
-git push -u origin master
+git push -u origin main
