@@ -4,7 +4,7 @@ for Y in {2012..2012}
 do
   mkdir $Y
   cd $Y
-  for M in {01..03}
+  for M in {05..07}
     do
       # if [ M != $[5 + $RANDOM % 3] ]; then
       # M=$[5 + $RANDOM % 3]
