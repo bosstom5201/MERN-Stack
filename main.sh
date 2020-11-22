@@ -1,10 +1,10 @@
 # M=$[5 + $RANDOM % 3]
 # echo $M
-for Y in {2019..2019}
+for Y in {2020..2020}
 do
   mkdir $Y
   cd $Y
-  for M in {10..11}
+  for M in {09..11}
     do
        # if [ M != $[5 + $RANDOM % 3] ]; then
       # M=$[5 + $RANDOM % 3]
